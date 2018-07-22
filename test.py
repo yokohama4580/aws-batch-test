@@ -4,7 +4,7 @@ import boto3
 from time import sleep
 
 # S3
-BUCKET_NAME = "test-bucket-batch"
+BUCKET_NAME = "yokohama-test-bucket-batch"
 TARGET_DIR = "batch"
 FILE_CONTENTS = ""
 
